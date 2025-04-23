@@ -28,6 +28,12 @@ Quelle: Fachbereich 2, Gemeinde Nordstemmen, E-Mail vom 19.11.2024
 
 ## Beschäftigte
 
+:::warning[Hinweis]
+
+Leider gibt es dazu in der Gemeinde keine Daten.
+
+:::
+
 | Dienstleistungen/Handel | Handwerk/Industrie | Land- und Forstwirtschaft | Sonstige  |
 | ----------------------- | ------------------ | ------------------------- | --------- |
 | unbekannt               | unbekannt          | unbekannt                 | unbekannt |

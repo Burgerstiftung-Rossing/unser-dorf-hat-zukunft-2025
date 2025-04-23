@@ -21,7 +21,7 @@ für die Begegnung von Jung und Alt stärken den bürgerschaftlichen Zusammenhal
 Die Bürgerschaft beteiligt sich an der Dorfgestaltung mit pflegerischen
 Maßnahmen und nachhaltigen Umweltprojekten, z.B. die Streuobstwiese und
 Blühflächen im Ort sowie Baumpflanzungen im Ort und am Ortsrand. Das
-**_Gemeinschaftsprojekt Umwelt_** von Bürgerstiftung, Dorfpflege u Freizeitsee
+**Gemeinschaftsprojekt Umwelt** von Bürgerstiftung, Dorfpflege und Freizeitsee
 hat im Ort zur Gestaltung einer Blühwiese (0,5 ha) und zu einem Lehrpfad am
 Freizeitsee für Kinder und Erwachsene beigetragen. Das Heersumer Sommertheater
 hat in Rössing im Jahr 2024 mit Rössinger Akteuren das musisch-kulturelle
