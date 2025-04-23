@@ -4,8 +4,9 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   noIndex: true,
-  title: "UDhZ - Rössing",
-  tagline: "Unterlagen für den Wettbewerb Unser Dorf hat Zukunft",
+  title: "UDhZ 2025 - Bewerbung Rössing",
+  tagline:
+    'Bewerbung von Rössing für den Wettbewerb "Unser Dorf hat Zukunft" 2025 - Regional- und Landesentscheid',
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -67,10 +68,10 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "UDhZ - Rössing",
+      title: "UDhZ 2025 - Bewerbung Rössing",
       logo: {
-        alt: "My Site Logo",
-        src: "img/logo.svg",
+        alt: "Die Drei Eichen",
+        src: "img/logo.jpg",
       },
       items: [],
     },

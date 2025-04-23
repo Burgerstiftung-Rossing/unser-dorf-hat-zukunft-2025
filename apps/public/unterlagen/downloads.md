@@ -3,4 +3,5 @@
 Zum Vergleich kann man sich hier die Word-Version der Bewerbung herunterladen.
 
 - [Bewerbung](./bewerbung.docx)
-- [Steckbrief](./steckbrief.docx)
+- [Anlage Steckbrief](./steckbrief-roessing.pdf)
+- [Anlage Lageplan Denkmäler](/Denkmaeler-Roessing.pdf)
