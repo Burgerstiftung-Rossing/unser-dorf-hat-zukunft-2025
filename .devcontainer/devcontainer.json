@@ -19,7 +19,10 @@
         "terminal.integrated.defaultProfile.linux": "zsh",
         "editor.defaultFormatter": "denoland.vscode-deno",
         "deno.enable": true,
-        "cSpell.language": "de-DE"
+        "cSpell.language": "de-DE",
+        "[markdown]": {
+          "editor.formatOnSave": false
+        }
       }
     }
   }
