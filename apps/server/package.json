@@ -1,0 +1,16 @@
+{
+    "name": "@udhz/server",
+    "private": true,
+    "dependencies": {
+        "cookie-parser": "^1.4.7",
+        "express": "^4.21.2",
+        "pocketbase": "^0.25.2"
+    },
+    "type": "module",
+    "scripts": {
+        "start": "node --experimental-strip-types index.ts"
+    },
+    "devDependencies": {
+        "@types/cookie-parser": "^1.4.8"
+    }
+}
