@@ -138,7 +138,7 @@ auf der Hofstelle Brendecke.
 
 Sehr zentral steht in Rössing
 die **[St. Peter und Paul Kirche](https://de.wikipedia.org/wiki/St._Peter_und_Paul_(R%C3%B6ssing)),** die
-als gotische Bruchsteinkirche Ende des 13.Jahrhunderts gegründet wurde und 1755
+als gotische Bruchsteinkirche Ende des 13. Jahrhunderts gegründet wurde und 1755
 zur Saalkirche erweitert wurde. Unsere Kirchengemeinde schrumpft wie überall.
 Daraus resultiert ein gemeinsames Pfarramt für Rössing und dem Nachbarort
 Barnten. Die finanzielle Lage des Pfarramts ist angespannt. In Kürze soll nach
