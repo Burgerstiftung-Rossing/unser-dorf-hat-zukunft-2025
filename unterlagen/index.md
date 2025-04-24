@@ -5,7 +5,7 @@ sidebar_position: 0.5
 
 # Willkommen
 
-Wir heißen Sie im Namen der Einwohner von Rössing herzlich willkommen auf dieser
+Wir heißen Sie im Namen der Einwohner:innen von Rössing herzlich willkommen auf dieser
 Internetseite. Auf den Folgenden Seiten finden Sie die Online-Version der
 Bewerbung des Dorfes Rössing für den Regional- und Landesentscheid des
 Wettbewerbs "Unser Dorf hat Zukunft". Diese Internetseite wurde aus Folgenden
