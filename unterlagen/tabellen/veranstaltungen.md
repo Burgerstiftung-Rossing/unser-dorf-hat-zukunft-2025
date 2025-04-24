@@ -23,7 +23,13 @@ sidebar_label: Veranstaltungen
 - 1\. Mai - Maifest am Dorfgemeinschaftshaus mit Konzert des Musikzugs der
   Freiwilligen Feuerwehr (CDU)
 - 3\. Oktober - Tag der Deutschen Einheit mit Sektempfang am
-  Dorfgemeinschafshaus mit Konzert des Musikzugs der Freiwilligen Feuerwehr
+  Dorfgemeinschaftshaus mit Konzert des Musikzugs der Freiwilligen Feuerwehr
   (Ortsrat)
 - Oktober - Bosselturnier mit Grillabend (CDU)
 - Kinderfasching, Kinderweihnachtsfeier und Ostereiersuche (VSV)
+- Dämmerschoppen (Förderverein Musikzug FFW)
+- Jahreskonzert (Musikzug FFW)
+- Sommerfest des Kleingartenvereins
+- Eierschießen der Nieders. Kameradschaftsvereinigung
+- Volkstrauertag Kranzniederlegung (Ortsrat)
+- Neujahrsempfang (Ortsrat)
