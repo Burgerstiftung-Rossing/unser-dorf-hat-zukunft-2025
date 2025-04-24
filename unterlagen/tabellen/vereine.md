@@ -12,9 +12,26 @@ sidebar_label: Vereine 🚧
 
 :::
 
-:::danger[Aufruf]
-Hier fehlen Inhalte. Bitte schreibe uns einen Beitrag!
-
-<a class="button button--danger" href="mailto:udhz-roessing@fire.fundersclub.com
-?cc=druno@noack-consultants.eu,post@levinkeller.de&subject=UDhZ - Mein Beitrag zum Punkt Vereine der Tabellen&body=Liebes UDhZ-Team,%0D%0Ahier ist ein Beitrag von mir zum Punkt Vereine der Tabellen:%0D%0A">Beitrag einreichen</a>
-:::
+- AWO Rössing-Barnten
+- Bergmannsverein
+- Bund der Vertriebenen BdV
+- Bürgerstiftung Rössing (144)
+- Dorfpflege Rössing
+- Deutsches Rotes Kreuz (17)
+- Förderverein Grundschule Barnten
+- Freiwillige Feuerwehr Rössing (180)
+- Freizeitsee
+- Kleingartenverein (8)
+- Kulturkreis Rössing
+- Landfrauenverein (9)
+- Förderverein Musikzug der FFW (144)
+- Niedersächsische Kameradschaftsvereinigung, Ortsgruppe Rössing
+- Rassekaninchenzuchtverein RKZV
+- Sozialverband SoVD
+- Sportfischerenverband Alte Leine (300)
+- Tennisverein
+- VSV Rössing
+- CDU Ortsverband Rössing
+- SPD Ortsverein Rössing
+- Ortsrat
+- Ev.-Luth. Kirchengemeinde (54)

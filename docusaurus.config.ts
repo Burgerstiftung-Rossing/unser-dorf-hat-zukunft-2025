@@ -17,7 +17,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "levino", // Usually your GitHub org/user name.
+  organizationName: "Burgerstifung-Rossing", // Usually your GitHub org/user name.
   projectName: "unser-dorf-hat-zukunft", // Usually your repo name.
 
   onBrokenLinks: "throw",
@@ -54,7 +54,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/levino/unser-dorf-hat-zukunft/tree/main/",
+            "https://github.com/Burgerstiftung-Rossing/unser-dorf-hat-zukunft-2025/tree/main/",
         },
         blog: false,
         theme: {
@@ -73,13 +73,20 @@ const config: Config = {
         alt: "Die Drei Eichen",
         src: "img/logo.jpg",
       },
-      items: [],
+      items: [
+        {
+          to: "changelog",
+          label: "Historie",
+        },
+      ],
     },
     footer: {
       style: "dark",
-      links: [],
+      links: [
+        { label: "Impressum", to: "/imprint" },
+      ],
       copyright:
-        `Nur für Leute, die beim Wettbewerb "Unser Dorf hat Zukunft" für Rössing mithelfen.`,
+        `Erstellt von der Bürgerstiftung Rössing und unter CC-BY 4.0 Lizenz veröffentlicht.`,
     },
     prism: {
       theme: prismThemes.github,

@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Statistik 🚧
+# Statistik
 
 :::info
 
@@ -16,7 +16,7 @@ sidebar_position: 4
 
 | Fläche des Dorfes in ha | Davon LF in ha                | Davon FF in ha                |
 | ----------------------- | ----------------------------- | ----------------------------- |
-| 1038 (Stand 1973)       | <!-- TODO: Wert eintragen --> | <!-- TODO: Wert eintragen --> |
+| 93,2       | unbekannt | geschätzt 3 |
 
 ## Einwohner:innen
 
@@ -30,13 +30,15 @@ Quelle: Fachbereich 2, Gemeinde Nordstemmen, E-Mail vom 19.11.2024
 
 :::warning[Hinweis]
 
-Leider gibt es dazu in der Gemeinde keine Daten.
+Leider gibt es dazu in der Gemeinde keine Daten. Wir haben die Angaben nach den
+öffentlich bekannten Betrieben geschätzt. Die angegebenen Werte bilden untere
+Schranken für die tatsächlichen Zahlen.
 
 :::
 
 | Dienstleistungen/Handel | Handwerk/Industrie | Land- und Forstwirtschaft | Sonstige  |
 | ----------------------- | ------------------ | ------------------------- | --------- |
-| unbekannt               | unbekannt          | unbekannt                 | unbekannt |
+| 16                      | 21                 | 12                        | unbekannt |
 
 ## Dorfstruktur
 
