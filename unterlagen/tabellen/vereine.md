@@ -17,7 +17,7 @@ sidebar_label: Vereine 🚧
 - Bund der Vertriebenen BdV
 - Bürgerstiftung Rössing (144)
 - Dorfpflege Rössing
-- Deutsches Rotes Kreuz (17)
+- Deutsches Rotes Kreuz (139)
 - Förderverein Grundschule Barnten
 - Freiwillige Feuerwehr Rössing (180)
 - Freizeitsee
