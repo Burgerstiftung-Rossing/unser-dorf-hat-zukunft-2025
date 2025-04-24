@@ -86,7 +86,7 @@ const config: Config = {
         { label: "Impressum", to: "/imprint" },
       ],
       copyright:
-        `Erstellt von der Bürgerstiftung Rössing und unter CC-BY 4.0 Lizenz veröffentlicht.`,
+        `Erstellt von der Bürgerstiftung Rössing und unter der <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de" target="_blank">CC-0 Lizenz</a> veröffentlicht.`,
     },
     prism: {
       theme: prismThemes.github,
