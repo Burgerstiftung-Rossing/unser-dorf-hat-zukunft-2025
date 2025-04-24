@@ -21,15 +21,15 @@ sidebar_label: Vereine 🚧
 - Förderverein Grundschule Barnten
 - Freiwillige Feuerwehr Rössing (180)
 - Freizeitsee
-- Kleingartenverein (8)
+- Kleingartenverein (76)
 - Kulturkreis Rössing
 - Landfrauenverein (9)
 - Förderverein Musikzug der FFW (144)
-- Niedersächsische Kameradschaftsvereinigung, Ortsgruppe Rössing
-- Rassekaninchenzuchtverein RKZV
+- Niedersächsische Kameradschaftsvereinigung, Ortsgruppe Rössing (154)
+- Rassekaninchenzuchtverein RKZV (6)
 - Sozialverband SoVD
 - Sportfischerenverband Alte Leine (300)
-- Tennisverein
+- Tennisverein (78)
 - VSV Rössing
 - CDU Ortsverband Rössing
 - SPD Ortsverein Rössing
