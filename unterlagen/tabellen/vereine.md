@@ -30,7 +30,7 @@ sidebar_label: Vereine 🚧
 - Sozialverband SoVD
 - Sportfischerenverband Alte Leine (300)
 - Tennisverein (78)
-- VSV Rössing
+- VSV Rössing (624)
 - CDU Ortsverband Rössing
 - SPD Ortsverein Rössing
 - Ortsrat
