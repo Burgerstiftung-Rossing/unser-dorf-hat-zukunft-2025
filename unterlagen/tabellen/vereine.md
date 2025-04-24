@@ -16,7 +16,7 @@ sidebar_label: Vereine 🚧
 - Bergmannsverein
 - Bund der Vertriebenen BdV
 - Bürgerstiftung Rössing (144)
-- Dorfpflege Rössing
+- Dorfpflege Rössing (115)
 - Deutsches Rotes Kreuz (139)
 - Förderverein Grundschule Barnten
 - Freiwillige Feuerwehr Rössing (180)
