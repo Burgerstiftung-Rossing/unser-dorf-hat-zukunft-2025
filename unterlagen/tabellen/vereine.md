@@ -12,7 +12,7 @@ sidebar_label: Vereine
 
 :::
 
-- AWO Rössing-Barnten
+- AWO Rössing-Barnten (90)
 - Bergmannsverein
 - Bund der Vertriebenen BdV
 - Bürgerstiftung Rössing (144)
