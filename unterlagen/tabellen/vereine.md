@@ -23,7 +23,7 @@ sidebar_label: Vereine
 - Freizeitsee
 - Kleingartenverein (76)
 - Kulturkreis Rössing
-- Landfrauenverein (9)
+- Landfrauenverein (132)
 - Förderverein Musikzug der FFW (144)
 - Niedersächsische Kameradschaftsvereinigung, Ortsgruppe Rössing (154)
 - Rassekaninchenzuchtverein RKZV (6)
@@ -31,7 +31,7 @@ sidebar_label: Vereine
 - Sportfischerenverband Alte Leine (300)
 - Tennisverein (78)
 - VSV Rössing (624)
-- CDU Ortsverband Rössing
+- CDU Ortsverband Rössing (28)
 - SPD Ortsverein Rössing
 - Ortsrat
 - Ev.-Luth. Kirchengemeinde (54)
