@@ -135,17 +135,10 @@ Räumlichkeiten für Gewerbetreibende sowie nach dem Umbau des Pferdestalls seit
 Terrasse zum Verweilen. Hervorzuheben ist auch der intakte **Brunnen** anno 1685
 auf der Hofstelle Brendecke.
 
-Sehr zentral steht in Rössing
-die **[St. Peter und Paul Kirche](https://de.wikipedia.org/wiki/St._Peter_und_Paul_(R%C3%B6ssing)),** die
-als gotische Bruchsteinkirche Ende des 13. Jahrhunderts gegründet wurde und 1755
-zur Saalkirche erweitert wurde. Unsere Kirchengemeinde schrumpft wie überall.
-Daraus resultiert ein gemeinsames Pfarramt für Rössing und dem Nachbarort
-Barnten. Die finanzielle Lage des Pfarramts ist angespannt. In Kürze soll nach
-Mittelfreigabe durch das Landeskirchenamt der Kirchturm samt Glockenturm
-renoviert werden. In der Vergangenheit haben großzügige private Spenden der
-Rössinger Bürgerschaft wichtige Renovierungen der Kirche zielführend begleitet,
-sodass sie vielfältig genutzt werden kann z.B. für Konzerte, Chor & Gesang,
-Theater und Vorträge.
+Zentral in Rössing steht die **[St. Peter und Paul Kirche](https://de.wikipedia.org/wiki/St._Peter_und_Paul_(R%C3%B6ssing))**, die als gotische Bruchsteinkirche Ende des 13. Jahrhunderts gegründet und 1755 zur Saalkirche erweitert wurde. Die Gemeindemitgliederzahl schrumpft, allerdings unterdurchschnittlich im Vergleich. Ein Verbundpfarrbüro verwaltet KG Rössing und KG Barnten gemeinsam.
+Die finanzielle Lage zur Erfüllung der Pflichtaufgaben ist ausgeglichen. Finanzmittel für die bevorstehende, umfängliche Kirchturmsanierung stehen bereit. Ein ausstehendes Gutachten verzögert allerdings den Baubeginn. Kirchenstiftung und Spenden aus der Gemeinde helfen Renovierungen, die in Eigenverantwortung der KG stehen, zielführend zu finanzieren.
+Eine enge Zusammenarbeit besteht mit dem Evangelischen Kindergarten in Rössing.
+Neben den Gottesdiensten mit Chor und Posaunenchor runden hochkarätige Konzerte und Vorträge das Angebot in und um die Kirche ab.
 
 ## Was beeinträchtigt uns?
 
