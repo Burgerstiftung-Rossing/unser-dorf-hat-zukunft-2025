@@ -23,8 +23,11 @@ Gründen erstellt:
   ist frei einsehbar und verwertbar.
 
 Wir hoffen, dass Ihnen diese Art der Darstellung zusagt und freuen uns bereits
-jetzt auf den Besuch der Jury in Rössing im Mai 2025.  
+jetzt auf den Besuch der Jury in Rössing im Mai 2025.
 
+<div class="video-wrapper">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9OgNMvpBTlM?si=bCrPIB6wntLizxO_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 Bis dahin grüßen Sie
 herzlichst
 
